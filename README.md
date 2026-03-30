@@ -1,2 +1,3 @@
-# Animated-Login-Page
-A stylish and responsive login interface developed with HTML, CSS, and JavaScript, featuring a gradient background, interactive form elements, and social login options.
+# 🔐 Login Page UI
+
+A modern and responsive Login Page UI built using HTML, CSS, and JavaScript. This project features a clean design with gradient backgrounds, styled input fields, and social login icons.
