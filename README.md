@@ -8,3 +8,4 @@ A modern and responsive Login Page UI built using HTML, CSS, and JavaScript. Thi
 
 - ✨ Beautiful gradient background
 - 🎨 Clean and modern UI design
+- 🔒 Login form with username & password fields
