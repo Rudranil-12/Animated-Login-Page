@@ -13,3 +13,4 @@ A modern and responsive Login Page UI built using HTML, CSS, and JavaScript. Thi
 - 🔗 “Forgot Password” option
 - 🌐 Social media login icons
 - Hover tooltip effect on social icons (e.g., Facebook)
+- 📱 Responsive design
