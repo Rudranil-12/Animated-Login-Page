@@ -22,3 +22,4 @@ A modern and responsive Login Page UI built using HTML, CSS, and JavaScript. Thi
 - HTML5 – Structure of the webpage.
 - CSS3 – Styling and layout.
 - JavaScript – Basic interactivity
+
