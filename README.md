@@ -39,3 +39,4 @@ A modern and responsive Login Page UI built using HTML, CSS, and JavaScript. Thi
 
 - Add form validation
 - Connect to backend (Node.js / Firebase)
+- Add dark mode toggle
