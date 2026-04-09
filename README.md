@@ -26,3 +26,9 @@ A modern and responsive Login Page UI built using HTML, CSS, and JavaScript. Thi
 ---
 
 ## 📂 Project Structure
+
+📁 Login-Page
+ ┣ 📄 index.html
+ ┣ 📄 style.css
+ ┣ 📄 script.js
+ ┗ 📄 README.md
