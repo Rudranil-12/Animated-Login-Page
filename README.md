@@ -38,3 +38,4 @@ A modern and responsive Login Page UI built using HTML, CSS, and JavaScript. Thi
 ## 🌟 Future Improvements
 
 - Add form validation
+- Connect to backend (Node.js / Firebase)
