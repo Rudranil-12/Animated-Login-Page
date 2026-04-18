@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Page with Loader</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Loader -->
+  <div id="loader" class="ai-matrix-loader">
+    <div class="digit">0</div>
+    <div class="digit">1</div>
+    <div class="digit">0</div>
+    <div class="digit">1</div>
+    <div class="digit">1</div>
+    <div class="digit">0</div>
+    <div class="digit">0</div>
+    <div class="digit">1</div>
+    <div class="glow"></div>
+  </div>
+
+  <!-- Login Card -->
+  <div id="login-card" class="hidden">
+    <div class="card">
+      <div class="login-content">
+        <h2>Login</h2>
+
+        <div class="input-box">
+          <label>Username</label>
+          <input type="text" placeholder="Type your username">
+        </div>
+
+        <div class="input-box">
+          <label>Password</label>
+          <input type="password" placeholder="Type your password">
+        </div>
+
+        <div class="forgot">Forgot password?</div>
+
+        <button><span></span>SUBMIT</button>
+
+        <div class="social-text">Or Sign Up Using</div>
+        <ul class="wrapper">
+          <!-- Facebook -->
+          <li class="icon facebook">
+            <span class="tooltip">Facebook</span>
+            <svg viewBox="0 0 320 512" height="1.2em" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+              <path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 
+              52.24-50.06h40.42V6.26S260.43 0 225.36 
+              0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"/>
+            </svg>
+          </li>
+
+          <!-- Twitter -->
+          <li class="icon twitter">
+            <span class="tooltip">Twitter</span>
+            <svg height="1.8em" fill="currentColor" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+              <path d="M42,12.429c-1.323,0.586-2.746,0.977-4.247,1.162
+              c1.526-0.906,2.7-2.351,3.251-4.058
+              c-1.428,0.837-3.01,1.452-4.693,1.776
+              C34.967,9.884,33.05,9,30.926,9c-4.08,0-7.387,3.278-7.387,7.32
+              c0,0.572,0.067,1.129,0.193,1.67
+              c-6.138-0.308-11.582-3.226-15.224-7.654
+              c-0.64,1.082-1,2.349-1,3.686
+              c0,2.541,1.301,4.778,3.285,6.096
+              c-1.211-0.037-2.351-0.374-3.349-0.914
+              c0,0.022,0,0.055,0,0.086
+              c0,3.551,2.547,6.508,5.923,7.181
+              c-0.617,0.169-1.269,0.263-1.941,0.263
+              c-0.477,0-0.942-0.054-1.392-0.135
+              c0.94,2.902,3.667,5.023,6.898,5.086
+              c-2.528,1.96-5.712,3.134-9.174,3.134
+              c-0.598,0-1.183-0.034-1.761-0.104
+              C9.268,36.786,13.152,38,17.321,38
+              c13.585,0,21.017-11.156,21.017-20.834
+              c0-0.317-0.01-0.633-0.025-0.945
+              C39.763,15.197,41.013,13.905,42,12.429"/>
+            </svg>
+          </li>
+
+          <!-- Google -->
+          <li class="icon google">
+            <span class="tooltip">Google</span>
+            <svg xmlns="http://www.w3.org/2000/svg" height="1.3em" viewBox="0 0 488 512" fill="currentColor">
+              <path d="M488 261.8c0-17.8-1.6-35.1-4.7-51.8H249v98.1h134.1
+              c-5.8 31.4-23.1 57.9-49.2 75.8v62.9h79.5
+              c46.5-42.9 74.6-106.1 74.6-184zM249 492c67.6 0 124.3-22.4 
+              165.7-60.7l-79.5-62.9c-22.1 14.8-50.2 23.6-86.2 23.6
+              -66.2 0-122.3-44.7-142.3-104.9H24.5v65.8
+              C65.8 447.6 150.9 492 249 492zM106.7 
+              299.1c-4.9-14.8-7.7-30.5-7.7-46.6s2.8-31.8 
+              7.7-46.6V140H24.5C8.7 174.6 0 214.1 0 252.5s8.7 
+              77.9 24.5 112.5l82.2-65.9zM249 97.5c36.8 
+              0 69.8 12.7 95.8 37.6l71.5-71.5C373.3 
+              24.5 316.6 0 249 0 150.9 0 65.8 44.4 24.5 
+              140.1l82.2 65.8c20-60.2 76.1-104.9 
+              142.3-104.9z"/>
+            </svg>
+          </li>
+        </ul>
+
+        <div class="signup-text">Or Sign Up Using <b>SIGN UP</b></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
