@@ -30,7 +30,7 @@ A modern and responsive Login Page UI built using HTML, CSS, and JavaScript. Thi
 📁 Login-Page
     -- 📄 index.html
     -- 📄 style.css
-    - 📄 script.js
+    -- 📄 script.js
     - 📄 README.md
 
 ---
