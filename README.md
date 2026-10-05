@@ -52,7 +52,7 @@ Follow these simple steps to run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Rudranil-12/Animated-Login-Page
 ```
 
 ### 2. Open the Project
