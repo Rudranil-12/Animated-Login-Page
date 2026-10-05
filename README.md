@@ -83,23 +83,6 @@ The layout automatically adjusts according to the device screen size.
 
 ---
 
-## 🌟 Future Improvements
-
-Some features that can be added in future versions:
-
-- ✅ Form validation
-- 👁️ Show / Hide password functionality
-- 🔐 User authentication
-- 🔥 Firebase integration
-- ⚙️ Node.js and Express.js backend
-- 🌙 Dark mode toggle
-- ✨ Advanced animations
-- 🔑 Google authentication
-- 📧 Forgot password functionality
-- 🗄️ Database integration
-
----
-
 ## 🎯 Project Purpose
 
 This project was created to practice and demonstrate:
