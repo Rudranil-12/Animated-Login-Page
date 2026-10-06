@@ -13,7 +13,6 @@ The project features a stylish gradient background, elegant form elements, smoot
 - 🔐 Username / Email and Password input fields
 - 👁️ Clean and user-friendly login form
 - 🔘 Stylish login button with hover effects
-- 🔗 “Forgot Password?” option
 - 🌐 Social media login icons
 - 💬 Interactive tooltip effects on social icons
 - ✨ Smooth hover and transition effects
